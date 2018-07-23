@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Learning that git hub aonly allows one site/ user I am going to need create another user name and site. 
+
 
 You can use the [editor on GitHub](https://github.com/jmockbee/AWS-Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
